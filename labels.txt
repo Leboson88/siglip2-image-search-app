@@ -1,0 +1,97 @@
+cat
+dog
+car
+sunset
+beach
+mountain
+city street
+forest
+flower
+food
+person
+bicycle
+一只猫
+一条狗
+海边
+雪山
+城市街道
+森林
+鲜花
+美食
+日落
+自行车
+potted plant
+tv
+chair
+microwave
+refrigerator
+book
+clock
+vase
+dining table
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+bird
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+backpack
+umbrella
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports ball
+kite
+baseball bat
+baseball glove
+skateboard
+surfboard
+tennis racket
+bottle
+wine glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot dog
+pizza
+donut
+cake
+couch
+bed
+toilet
+laptop
+mouse
+remote
+keyboard
+cell phone
+oven
+toaster
+sink
+scissors
+teddy bear
+hair drier
+toothbrush

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+transformers>=4.50.0
+datasets
+pillow
+faiss-cpu
+numpy
+tqdm
